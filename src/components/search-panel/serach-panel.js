@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+
+import '../search-panel/search-panel.css';
 
 const SearchPanel = () => {
     return (
